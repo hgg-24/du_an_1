@@ -7,7 +7,7 @@ from PIL import Image
 from scipy.optimize import minimize_scalar
 
 # [CẤU HÌNH TRANG]
-st.set_page_config(page_title="Bài dự thi của Studyholics", layout="wide")
+st.set_page_config(page_title="Mô hình mô phỏng vật lý lớp 10", layout="wide")
 
 # [CSS - BẢN FIX UI TẬN GỐC]
 st.markdown("""
