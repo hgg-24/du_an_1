@@ -1,4 +1,4 @@
-name: Keep ED-ODYSSEY Alive
+name: Keep ED-ODYSSEY Alive 1
 on:
   schedule:
     - cron: '0 */6 * * *'
